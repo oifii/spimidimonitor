@@ -1,0 +1,4 @@
+comes from portmidi folder D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\midi_portmidi-src-217\portmidi\pm_test
+mm.c test app.
+
+renamed to midimonitor.cpp to ensure it was behaving fine before including it in other spi projects
